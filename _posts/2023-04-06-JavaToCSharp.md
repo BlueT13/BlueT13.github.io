@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "JavaToCSharp"
+title: "JavaToCSharp"
 ---
 
 # JavaToCSharp
